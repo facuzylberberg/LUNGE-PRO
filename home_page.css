@@ -1,0 +1,34 @@
+.btn__info {
+    position: absolute;
+    width: 6.3em;
+    height: 6.3em;
+    left: 2.8em;
+    top: 5.2em;
+}
+
+.btn__conf {
+    position: absolute;
+    width: 5.5em;
+    height: 5.5em;
+    left: 33.9em;
+    top: 5.8em;
+}
+
+.flexion__title {
+    padding-top: 3em;
+    color: #ffffff;
+    font-size: 6em;
+    text-align: center;
+    font-weight: 100;
+}
+
+.btn__flexion-up {
+    position: absolute;
+    width: 13.1em;
+    height: 7.6em;
+    left: calc(50% - 131px/2 - 91.5px);
+    top: calc(50% - 75.59px/2 - 172.21px);
+
+    background: #B7A082;
+    border-radius: 20px 20px 0px 0px;
+}

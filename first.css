@@ -1,0 +1,30 @@
+* {
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    font-size: 10px;
+}
+
+.logo {
+    width: 30em;
+    height: 40em;
+    padding-bottom: 6em;
+}
+
+.titulo {
+    font-size: 8em;
+    color: #B7A082;
+    padding-bottom: .2em;
+    padding-top: .5em; 
+}
+
+.btn__comenzar {
+    display: inline-block;
+    font-size: 4em;
+    color: #000000;
+    text-decoration: none;
+    background-color: #B7A082;
+    padding: .5em 1.5em .5em 1.5em;
+    border-radius: 1em;
+    font-weight: 400;
+}
